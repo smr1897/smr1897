@@ -1,11 +1,3 @@
-<style>
-  #title {
-    text-align: center;
-    font-size: 24px;
-    color: blue;
-  }
-</style>
-
 <h1 align="center">Hi 👋, I'm Sahan</h1>
 <h3 id="title" align="center">Game and App Developer</h3>
 
@@ -33,15 +25,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=smr1897&show_icons=true&locale=en&layout=compact" alt="smr1897" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=smr1897&show_icons=true&locale=en" alt="smr1897" /></p>
-<script>
-  // Function to change the title based on user input
-  function changeTitle(title) {
-    document.getElementById('title').innerHTML = title;
-  }
-
-  
-  changeTitle("Game Developer");
-  
-</script>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=smr1897&" alt="smr1897" /></p>
