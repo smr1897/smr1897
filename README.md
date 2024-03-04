@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sahan and I'm a Game Developer and Software Engineer, from SriLanka</h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;Second+line+of+text)](https://git.io/typing-svg)
 
 ###
 
