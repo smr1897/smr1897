@@ -90,6 +90,6 @@
 
 <br clear="both">
 
-
+<img src="https://raw.githubusercontent.com/smr1897/smr1897/output/snake.svg" alt="Snake animation" />
 
 ###
