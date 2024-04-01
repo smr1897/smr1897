@@ -1,6 +1,6 @@
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Pricedown&size=50&duration=4000&pause=1000&color=F79E59&center=true&random=false&width=100&height=200&lines=HI+There+;I'm+Sahan+Rajapaksha;Game+Developer+%26+Software+Engineer;" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Pricedown&size=50&duration=4000&pause=1000&color=F79E59&center=true&random=false&width=1000&height=200&lines=HI+There+;I'm+Sahan+Rajapaksha;Game+Developer+%26+Software+Engineer;" />
 </h1>
 
 <h3 align="center">A passionate software developer from SriLanka</h3>
